@@ -1,0 +1,2 @@
+model_checkpoint_path: "nn1_1000000"
+all_model_checkpoint_paths: "nn1_1000000"
